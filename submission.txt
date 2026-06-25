@@ -1,0 +1,7 @@
+Name: Hayley Vu
+Class: Web Programming
+Assignment: CW2
+Homepage: https://codd.cs.gsu.edu/~tvu53/wp/cw/cw2/index.html
+About Page: https://codd.cs.gsu.edu/~tvu53/wp/cw/cw2/about.html
+Hobby: https://codd.cs.gsu.edu/~tvu53/wp/cw/cw2/hobby.html
+Passion Project: https://codd.cs.gsu.edu/~tvu53/wp/cw/cw2/passion-project.html
